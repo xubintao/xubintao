@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## I wish to be a good person and good worker! 
+### Hello world!
 <!--
 **xubintao/xubintao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
